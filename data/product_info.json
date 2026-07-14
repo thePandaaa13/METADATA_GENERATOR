@@ -1,0 +1,14 @@
+{
+  "Entresto": {
+    "approved_indication": "Chronic heart failure with reduced ejection fraction",
+    "therapeutic_area": "Cardiology"
+  },
+  "Cosentyx": {
+    "approved_indication": "Plaque psoriasis, psoriatic arthritis, ankylosing spondylitis",
+    "therapeutic_area": "Immunology"
+  },
+  "Kisqali": {
+    "approved_indication": "HR-positive, HER2-negative advanced or metastatic breast cancer",
+    "therapeutic_area": "Oncology"
+  }
+}

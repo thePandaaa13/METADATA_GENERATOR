@@ -1,0 +1,7 @@
+product,channel,audience,campaign_type,sample_size,avg_ctr,avg_open_rate,avg_conversion_rate,avg_engagement_score
+Entresto,Print,Doctors,Physician Education,22,0.00,0.00,0.00,0.66
+Entresto,Email,Doctors,Physician Education,19,0.047,0.59,0.071,0.69
+Cosentyx,Email,Patients,Patient Support,38,0.043,0.57,0.058,0.64
+Cosentyx,Social Media,Patients,Awareness,14,0.031,0.00,0.020,0.52
+Kisqali,Webinar,Doctors,Physician Education,11,0.00,0.00,0.00,0.77
+Kisqali,Email,Doctors,Physician Education,9,0.026,0.46,0.033,0.53

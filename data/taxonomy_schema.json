@@ -1,0 +1,7 @@
+{
+  "therapeutic_areas": ["Cardiology", "Immunology", "Oncology", "Neuroscience"],
+  "audiences": ["Doctors", "Patients", "Nurses", "Sales Reps"],
+  "channels": ["Email", "Print", "Webinar", "Social Media", "In-clinic"],
+  "campaign_types": ["Physician Education", "Patient Support", "Product Launch", "Awareness"],
+  "tones": ["Clinical", "Empathetic", "Formal", "Conversational"]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "filename": "entresto_brochure_uk.txt",
+    "mlr_status": "approved",
+    "country": "UK",
+    "language": "English",
+    "campaign_type": "Physician Education",
+    "target_audience": "Doctors"
+  },
+  {
+    "filename": "cosentyx_patient_email_us.txt",
+    "mlr_status": "approved",
+    "country": "USA",
+    "language": "English",
+    "campaign_type": "Patient Support",
+    "target_audience": "Patients"
+  },
+  {
+    "filename": "kisqali_hcp_webinar_germany.txt",
+    "mlr_status": "approved",
+    "country": "Germany",
+    "language": "English",
+    "campaign_type": "Physician Education",
+    "target_audience": "Doctors"
+  }
+]
